@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6738ba8afc8ac538e732d1d9"
+  },
+  "Name": "Nguyễn Văn A",
+  "Phone_number": "0912345678",
+  "Creator_TaxCode": 123456789,
+  "Citizen_ID": "123456789012",
+  "User_ID": "6738b57ffc8ac538e732d1cb"
+},
+{
+  "_id": {
+    "$oid": "6738ba8afc8ac538e732d1da"
+  },
+  "Name": "Trần Thị B",
+  "Phone_number": "0345678912",
+  "Creator_TaxCode": 987654321,
+  "Citizen_ID": "987654321098",
+  "User_ID": "6738b57ffc8ac538e732d1cc"
+},
+{
+  "_id": {
+    "$oid": "6738ba8afc8ac538e732d1db"
+  },
+  "Name": "Phạm Thị D",
+  "Phone_number": "0376543210",
+  "Creator_TaxCode": 112233445,
+  "Citizen_ID": "123123123123",
+  "User_ID": "6738b57ffc8ac538e732d1ce"
+},
+{
+  "_id": {
+    "$oid": "6738ba8afc8ac538e732d1dc"
+  },
+  "Name": "Hoàng Văn E",
+  "Phone_number": "0987654321",
+  "Creator_TaxCode": 445566778,
+  "Citizen_ID": "321321321321",
+  "User_ID": "6738b57ffc8ac538e732d1cf"
+},
+{
+  "_id": {
+    "$oid": "6738ba8afc8ac538e732d1dd"
+  },
+  "Name": "Nguyễn Thị F",
+  "Phone_number": "0934567890",
+  "Creator_TaxCode": 556677889,
+  "Citizen_ID": "456456456456",
+  "User_ID": "6738b57ffc8ac538e732d1d0"
+}]

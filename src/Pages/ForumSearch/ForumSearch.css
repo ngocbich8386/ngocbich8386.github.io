@@ -1,0 +1,114 @@
+.content_forum_search {
+    margin-left: 15rem; 
+    flex: 1;
+    background-color: #fff;
+    height: 100%;
+ }
+.textlogo_forum_search {
+    font-size: 1.25rem;
+    color: #02548C;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px #ccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 0.625rem;
+}
+
+.cart_forum_search {
+    color: #02548C;
+    display: block;
+    float: right;
+    margin-right: 0.625rem;
+    margin-top: -1.25rem;
+}
+
+.searchbar {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 80%;
+}
+input{
+    width: 50%;
+}
+
+.hdetails_forum_search {
+    margin-top: 3rem;
+    margin-left: 0.625rem;
+}
+
+.chitiet_forum_search {
+    text-align: center;
+    margin-top: -0.9375rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.5625rem;
+}
+
+.timepost_forum_search {
+    color: #7D7C7E;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 0.6875rem;
+    margin-left: 2.1875rem;
+}
+
+.dots_forum_search {
+    display: block;
+    float: right;
+    margin-right: 0.625rem;
+    margin-top: -2.375rem;
+}
+.actionright_forum_search {
+    display: block;
+    float: right;
+    margin-right: 2.1875rem;
+    margin-top: -1.875rem;
+}
+
+
+.actionleft_forum_search {
+    display: block;
+    text-align: left;
+    margin-left: 2.1875rem;
+}
+
+.post_table_forum_search {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+    border-radius: 0.625rem;
+    padding: 0.625rem;
+    border: 0.0625rem solid #ccc;
+}
+
+.avataruser_forum_search {
+    margin-top: 0.625rem;
+    margin-left: 2.1875rem;
+}
+
+.postimg_forum_search {
+    width: 40vw;
+    height: 50%;
+    margin-left: 2.1875rem;
+    margin-right: 2.1875rem;
+    margin-top: 0.8125rem;
+}
+
+.titlepost_forum_search {
+    margin-top: 0.625rem;
+    margin-left: 2.1875rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: purple;
+
+}
+
+.contentpost_forum_search {
+    margin-left: 2.1875rem;
+    margin-right: 2.1875rem;
+    margin-bottom: 0.625rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+
